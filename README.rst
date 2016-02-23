@@ -1,6 +1,10 @@
 PAMMySQL Tools
 ==============
 
+.. image:: https://badges.gitter.im/cperrin88/PAMMySQLTools.svg
+   :alt: Join the chat at https://gitter.im/cperrin88/PAMMySQLTools
+   :target: https://gitter.im/cperrin88/PAMMySQLTools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://travis-ci.org/cperrin88/PAMMySQLTools.svg?branch=master
    :target: https://travis-ci.org/cperrin88/PAMMySQLTools
 .. image:: https://coveralls.io/repos/github/cperrin88/PAMMySQLTools/badge.svg?branch=master
